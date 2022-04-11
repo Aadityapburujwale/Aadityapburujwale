@@ -3,9 +3,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Android App Developer and Competitive Programmer as well as enthusiast Web Developer.</h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Defeats will be end, but never ends with the defeats, ends always with winning just need of Hard Work and consistency!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+</p> -->
 
 <div align="center">
   
