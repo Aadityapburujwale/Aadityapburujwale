@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🌱 I’m currently learning ... **BlockChain** -->
+- 🌱 I’m currently learning ... **BlockChain** 
 - 👯 I’m looking to collaborate on **Projects**
 - 💬 Ask me about ... Android App Develpoment, Web Development, Compititive Programming | DSA <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - 📫 How to reach me: ... **aadityapburujwale@gmail.com**
