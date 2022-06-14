@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Aadityapburujwale/Aadityapburujwale/blob/master/src/images/Namste.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Aadityapburujwale/Aadityapburujwale/blob/master/src/images/Namste.gif" /></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Android App Developer and Competitive Programmer as well as enthusiast Web Developer.</h3>
 
 <!-- <p align="center">
@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning ... **BlockChain** 
 - 👯 I’m looking to collaborate on **Projects**
-- 💬 Ask me about ... Android App Develpoment, Web Development, Compititive Programming | DSA <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+- 💬 Ask me about ... Android App Develpoment, Web Development, Compititive Programming | DSA <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 - 📫 How to reach me: ... **aadityapburujwale@gmail.com**
 - ⚡ Fun fact: ... I love to solve problems. **I can do problems solving all day.**
 
-## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30">
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60">
 <p align="left">
 
 <a href = "https://in.linkedin.com/in/aaditya-burujwale"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
