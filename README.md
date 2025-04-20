@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Aadityapburujwale/Aadityapburujwale/blob/master/src/images/Namste.gif" /></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://github.com/Aadityapburujwale/Aadityapburujwale/blob/master/src/images/Namste.gif" /></a> -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate Android App Developer and Competitive Programmer as well as enthusiast Web Developer.</h3>
+<h3 align="center">I'm a passionate iOS Developer and Competitive Programmer with experience in Android Development.</h3>
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Defeats will be end, but never ends with the defeats, ends always with winning just need of Hard Work and consistency!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -11,14 +11,14 @@
   
   <span></span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&width=500&lines=Hey!+It's+Aaditya!;I'm+a+Android+App+Developer%2C;Web+Developer%2C;Competitive+Programmer.;I+%E2%9D%A4+Problem+Solving.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&width=500&lines=Hey!+It's+Aaditya!;I'm+an+iOS+Developer%2C;Android+Developer;Competitive+Programmer.;I+%E2%9D%A4+Problem+Solving.)](https://git.io/typing-svg)
 </div>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning ... **BlockChain** 
-- 👯 I’m looking to collaborate on **Projects**
-- 💬 Ask me about ... Android App Develpoment, Web Development, Compititive Programming | DSA <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+<!-- 🌱 I’m currently learning ... **BlockChain** -->
+<!-- 👯 I’m looking to collaborate on **Projects** -->
+- 💬 Ask me about ... IOS Development, Android Develpoment, Web Development, Compititive Programming | DSA <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 - 📫 How to reach me: ... **aadityapburujwale@gmail.com**
 - ⚡ Fun fact: ... I love to solve problems. **I can do problems solving all day.**
 
